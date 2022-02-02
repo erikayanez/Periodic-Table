@@ -1,6 +1,6 @@
 ## Periodic Table practice
 
-![screenshot of the project](./images/periodic-table)
+![screenshot of the project](./images/periodic-table.png)
 
 ## About the project:
 > This project is created in order to get a better understanding on how :nth-child works, how to target an individual element or a block of them.
