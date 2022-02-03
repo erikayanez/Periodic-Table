@@ -15,7 +15,10 @@
    /* Medium devices (landscape tablets, 768px and up) */
    @media only screen and (min-width: 768px) {
       body {
-   background-color: rgb(160, 144, 144);
+            border: 2px dashed red; 
+            /* background-image: url(./images/orquid1.jpg); */
+            background-color: rgb(160, 144, 144);
+            font-style: italic;
    }
  }
  
